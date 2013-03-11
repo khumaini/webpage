@@ -1,0 +1,50 @@
+h1{
+color:black;
+font-family:Arial Black;
+}
+
+.right { 
+	float: right; 
+}
+
+div div img{
+width:300px;
+higth:400;px
+}
+.img_border { 
+	background: #cacac6; 
+	padding: 6px; 
+	border: 2px solid #a9a99e; 
+}
+ 
+
+
+.left{
+float:left;
+}
+table{
+font-size:24px;
+font-family:Comic Sans MS;
+}
+
+a, a:link, a:visited { 
+	color: #525111; 
+	font-weight: normal; 
+	text-decoration: none; 
+}
+
+a:hover { 
+	text-decoration: underline; 
+}
+
+#templatemo_footer_wrapper  {
+	width: 100%;
+	background: url(../images/templatemo_footer.png) center top no-repeat
+}
+/*
+#content{
+	overflow:hidden;
+	width: 1000px;
+	position:center;
+	height: 2000px;
+}*/
